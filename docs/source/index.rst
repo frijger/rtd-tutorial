@@ -21,3 +21,4 @@ Contents
    usage
    api
    test
+docs/source/index.rst
